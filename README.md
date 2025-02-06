@@ -120,7 +120,7 @@ Adjust threshold values in the respective functions:
 "threshold": 90  # Modify this value
 ```
 
-## Error Handling
+## Error Handling as per the case
 
 The scripts include comprehensive error handling for:
 - AWS API failures
