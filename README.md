@@ -143,3 +143,4 @@ The scripts include comprehensive error handling for:
 - Use IAM roles when possible
 - Regularly rotate access keys
 - Follow AWS security best practices
+- do not forget to follow
